@@ -1,0 +1,269 @@
+{
+
+  "version": 1,
+
+  "pets": [
+
+    {
+      "id": "dog001",
+      "name": "シロ",
+      "species": "dog",
+      "rarity": 1,
+      "imageUrl": "https://fulavono.neocities.org/furawalk/pet_image/dog01.jpg",
+
+      "unlockConditions": [
+        {
+          "type": "starter",
+          "value": 1
+        }
+      ],
+
+      "baseStatus": {
+        "hp": 100,
+        "stamina": 90,
+        "speed": 80,
+        "power": 70,
+        "intelligence": 60
+      },
+
+      "growthRate": {
+        "hp": 1.2,
+        "stamina": 1.2,
+        "speed": 1.1,
+        "power": 1.0,
+        "intelligence": 0.9
+      },
+
+      "personalitySeed": {
+        "activity": 90,
+        "aggressiveness": 20,
+        "kindness": 95,
+        "curiosity": 80,
+        "timidity": 15,
+        "independence": 45,
+        "sociability": 90,
+        "playfulness": 95,
+        "patience": 55,
+        "obedience": 95,
+        "confidence": 70,
+        "greed": 20,
+        "jealousy": 10,
+        "empathy": 90,
+        "stubbornness": 35,
+        "talkativeness": 80
+      },
+
+      "favoriteCategories": [
+        "meat",
+        "snack"
+      ],
+
+      "favoriteItems": [
+        "food_beef",
+        "toy_ball"
+      ],
+
+      "dislikedCategories": [
+        "vegetable"
+      ],
+
+      "dislikedItems": [
+        "food_carrot"
+      ],
+
+      "forbiddenItems": [
+        "food_chocolate",
+        "toy_firecracker"
+      ],
+
+      "speech": {
+        "firstPerson": "ぼく",
+        "ending": "ワン！",
+        "style": "friendly"
+      },
+
+      "aiTraits": {
+        "memory": 70,
+        "optimism": 90,
+        "attachment": 95,
+        "adventurous": 80
+      },
+
+      "aiPrompt": ""
+    },
+
+    {
+      "id": "cat001",
+      "name": "ちゃい",
+      "species": "cat",
+      "rarity": 1,
+      "imageUrl": "https://fulavono.neocities.org/furawalk/pet_image/cat01.jpg",
+
+      "unlockConditions": [
+        {
+          "type": "starter",
+          "value": 2
+        }
+      ],
+
+      "baseStatus": {
+        "hp": 85,
+        "stamina": 70,
+        "speed": 95,
+        "power": 50,
+        "intelligence": 80
+      },
+
+      "growthRate": {
+        "hp": 1.0,
+        "stamina": 1.0,
+        "speed": 1.3,
+        "power": 0.8,
+        "intelligence": 1.2
+      },
+
+      "personalitySeed": {
+        "activity": 70,
+        "aggressiveness": 40,
+        "kindness": 60,
+        "curiosity": 95,
+        "timidity": 50,
+        "independence": 90,
+        "sociability": 45,
+        "playfulness": 70,
+        "patience": 80,
+        "obedience": 35,
+        "confidence": 85,
+        "greed": 35,
+        "jealousy": 40,
+        "empathy": 55,
+        "stubbornness": 75,
+        "talkativeness": 40
+      },
+
+      "favoriteCategories": [
+        "fish"
+      ],
+
+      "favoriteItems": [
+        "food_tuna",
+        "toy_feather"
+      ],
+
+      "dislikedCategories": [
+        "fruit"
+      ],
+
+      "dislikedItems": [
+        "food_orange"
+      ],
+
+      "forbiddenItems": [
+        "food_onion"
+      ],
+
+      "speech": {
+        "firstPerson": "わたし",
+        "ending": "にゃ。",
+        "style": "cool"
+      },
+
+      "aiTraits": {
+        "memory": 90,
+        "optimism": 65,
+        "attachment": 60,
+        "adventurous": 85
+      },
+
+      "aiPrompt": ""
+    },
+
+    {
+      "id": "monkey001",
+      "name": "モンタ",
+      "species": "monkey",
+      "rarity": 2,
+      "imageUrl": "https://fulavono.neocities.org/furawalk/pet_image/monky01.jpg",
+
+      "unlockConditions": [
+        {
+          "type": "walkDistance",
+          "value": 100000
+        }
+      ],
+
+      "baseStatus": {
+        "hp": 90,
+        "stamina": 95,
+        "speed": 85,
+        "power": 75,
+        "intelligence": 95
+      },
+
+      "growthRate": {
+        "hp": 1.1,
+        "stamina": 1.2,
+        "speed": 1.1,
+        "power": 1.0,
+        "intelligence": 1.4
+      },
+
+      "personalitySeed": {
+        "activity": 95,
+        "aggressiveness": 45,
+        "kindness": 55,
+        "curiosity": 100,
+        "timidity": 10,
+        "independence": 80,
+        "sociability": 75,
+        "playfulness": 100,
+        "patience": 30,
+        "obedience": 40,
+        "confidence": 90,
+        "greed": 60,
+        "jealousy": 35,
+        "empathy": 55,
+        "stubbornness": 50,
+        "talkativeness": 90
+      },
+
+      "favoriteCategories": [
+        "fruit",
+        "sweet"
+      ],
+
+      "favoriteItems": [
+        "food_banana",
+        "toy_puzzle"
+      ],
+
+      "dislikedCategories": [
+        "spicy"
+      ],
+
+      "dislikedItems": [
+        "food_pepper"
+      ],
+
+      "forbiddenItems": [
+        "food_alcohol"
+      ],
+
+      "speech": {
+        "firstPerson": "オイラ",
+        "ending": "キー！",
+        "style": "energetic"
+      },
+
+      "aiTraits": {
+        "memory": 95,
+        "optimism": 85,
+        "attachment": 70,
+        "adventurous": 100
+      },
+
+      "aiPrompt": ""
+    }
+
+  ]
+}

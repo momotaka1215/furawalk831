@@ -1,0 +1,281 @@
+[
+  {
+    "id": "michinoeki_minamifurano",
+    "name": "道の駅 南ふらの",
+    "latitude": 43.1697,
+    "longitude": 142.5725,
+    "radiusMeter": 50,
+    "type": "TOURISM",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 200,
+      "itemId": "minamifurano_curry"
+    }
+  },
+  {
+    "id": "jr_ikutora_station",
+    "name": "幾寅駅",
+    "latitude": 43.1624,
+    "longitude": 142.5694,
+    "radiusMeter": 40,
+    "type": "STATION",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160,
+      "itemId": "poppoya_goods"
+    }
+  },
+  {
+    "id": "kanayama_lake_park",
+    "name": "かなやま湖森林公園",
+    "latitude": 43.1720,
+    "longitude": 142.5333,
+    "radiusMeter": 60,
+    "type": "PARK",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 180
+    }
+  },
+  {
+    "id": "kanayama_lake_lavender",
+    "name": "かなやま湖ラベンダー園",
+    "latitude": 43.1678,
+    "longitude": 142.5312,
+    "radiusMeter": 45,
+    "type": "SIGHTSEEING",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150,
+      "itemId": "lavender"
+    }
+  },
+  {
+    "id": "kanayamako_onsen",
+    "name": "かなやま湖保養センター",
+    "latitude": 43.1735,
+    "longitude": 142.5298,
+    "radiusMeter": 35,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150,
+      "itemId": "onsen_ticket"
+    }
+  },
+  {
+    "id": "kanayama_dam",
+    "name": "金山ダム",
+    "latitude": 43.1362,
+    "longitude": 142.4215,
+    "radiusMeter": 50,
+    "type": "SIGHTSEEING",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160,
+      "itemId": "dam_card"
+    }
+  },
+  {
+    "id": "jr_kanayama_station",
+    "name": "JR金山駅",
+    "latitude": 43.1331,
+    "longitude": 142.4168,
+    "radiusMeter": 35,
+    "type": "STATION",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "minamifurano_town_hall",
+    "name": "南富良野町役場",
+    "latitude": 43.1681,
+    "longitude": 142.5642,
+    "radiusMeter": 35,
+    "type": "GOVERNMENT",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "minamifurano_post_office",
+    "name": "幾寅郵便局",
+    "latitude": 43.1652,
+    "longitude": 142.5678,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "ikutora_jinja",
+    "name": "幾寅神社",
+    "latitude": 43.1610,
+    "longitude": 142.5651,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "seicomart_minamifurano",
+    "name": "セイコーマート 南ふらの店",
+    "latitude": 43.1668,
+    "longitude": 142.5695,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "seven_eleven_minamifurano",
+    "name": "セブン-イレブン 南富良野幾寅店",
+    "latitude": 43.1691,
+    "longitude": 142.5718,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "minamifurano_high_school",
+    "name": "南富良野高等学校",
+    "latitude": 43.1645,
+    "longitude": 142.5612,
+    "radiusMeter": 40,
+    "type": "HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "minamifurano_junior_high_school",
+    "name": "南富良野中学校",
+    "latitude": 43.1658,
+    "longitude": 142.5629,
+    "radiusMeter": 35,
+    "type": "JUNIOR_HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "ikutora_elementary_school",
+    "name": "幾寅小学校",
+    "latitude": 43.1648,
+    "longitude": 142.5658,
+    "radiusMeter": 35,
+    "type": "ELEMENTARY_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "ochiai_station",
+    "name": "JR落合駅",
+    "latitude": 43.1208,
+    "longitude": 142.6852,
+    "radiusMeter": 35,
+    "type": "STATION",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  }
+]

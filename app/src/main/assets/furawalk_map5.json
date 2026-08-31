@@ -1,0 +1,645 @@
+[
+  {
+    "id": "hinode_park_lavender",
+    "name": "日の出公園ラベンダー園",
+    "latitude": 43.4608,
+    "longitude": 142.4764,
+    "radiusMeter": 50,
+    "type": "PARK",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160,
+      "itemId": "lavender"
+    }
+  },
+  {
+    "id": "flowerland_kamifurano",
+    "name": "フラワーランドかみふらの",
+    "latitude": 43.4735,
+    "longitude": 142.4498,
+    "radiusMeter": 50,
+    "type": "SIGHTSEEING",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160
+    }
+  },
+  {
+    "id": "miyama_pass_art_park",
+    "name": "深山峠アートパーク",
+    "latitude": 43.4886,
+    "longitude": 142.4542,
+    "radiusMeter": 45,
+    "type": "SIGHTSEEING",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 180
+    }
+  },
+  {
+    "id": "goto_sumio_museum",
+    "name": "後藤純男美術館",
+    "latitude": 43.4478,
+    "longitude": 142.4385,
+    "radiusMeter": 35,
+    "type": "SIGHTSEEING",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "senbou_pass",
+    "name": "千望峠花と憩いの広場",
+    "latitude": 43.4412,
+    "longitude": 142.4182,
+    "radiusMeter": 40,
+    "type": "PARK",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "fukiage_roten_onsen",
+    "name": "吹上露天の湯",
+    "latitude": 43.4439,
+    "longitude": 142.6418,
+    "radiusMeter": 40,
+    "type": "PUBLIC",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 200,
+      "itemId": "onsen_ticket"
+    }
+  },
+  {
+    "id": "ryounkaku_tokachidake",
+    "name": "十勝岳温泉 凌雲閣",
+    "latitude": 43.4118,
+    "longitude": 142.6452,
+    "radiusMeter": 40,
+    "type": "SIGHTSEEING",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 200,
+      "itemId": "onsen_ticket"
+    }
+  },
+  {
+    "id": "yakiniku_daikokuya",
+    "name": "焼肉 まるます",
+    "latitude": 43.4568,
+    "longitude": 142.4671,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "butasagari"
+    }
+  },
+  {
+    "id": "yakiniku_秀",
+    "name": "焼肉 秀",
+    "latitude": 43.4582,
+    "longitude": 142.4685,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "butasagari"
+    }
+  },
+  {
+    "id": "daijiromaru_ramen",
+    "name": "第一房",
+    "latitude": 43.4542,
+    "longitude": 142.4658,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "ramen"
+    }
+  },
+  {
+    "id": "furano_no_oka",
+    "name": "ふらのの丘",
+    "latitude": 43.4812,
+    "longitude": 142.4415,
+    "radiusMeter": 35,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150,
+      "itemId": "curry"
+    }
+  },
+  {
+    "id": "yamadori_kunen",
+    "name": "くんえん工房 Yamadori",
+    "latitude": 43.4589,
+    "longitude": 142.4651,
+    "radiusMeter": 30,
+    "type": "SHOP",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "sausage"
+    }
+  },
+  {
+    "id": "jr_kamifurano_station",
+    "name": "JR上富良野駅",
+    "latitude": 43.4572,
+    "longitude": 142.4661,
+    "radiusMeter": 40,
+    "type": "STATION",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "kamifurano_town_hall",
+    "name": "上富良野町役場",
+    "latitude": 43.4588,
+    "longitude": 142.4702,
+    "radiusMeter": 35,
+    "type": "GOVERNMENT",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_post_office_main",
+    "name": "上富良野郵便局",
+    "latitude": 43.4561,
+    "longitude": 142.4682,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_jinja",
+    "name": "上富良野神社",
+    "latitude": 43.4612,
+    "longitude": 142.4718,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "seicomart_kamifurano",
+    "name": "セイコーマート 上富良野店",
+    "latitude": 43.4580,
+    "longitude": 142.4675,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "seven_eleven_kamifurano",
+    "name": "セブン-イレブン 上富良野大通店",
+    "latitude": 43.4552,
+    "longitude": 142.4639,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "kamifurano_high_school",
+    "name": "上富良野高等学校",
+    "latitude": 43.4522,
+    "longitude": 142.4751,
+    "radiusMeter": 40,
+    "type": "HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_library",
+    "name": "上富良野町立図書館",
+    "latitude": 43.4582,
+    "longitude": 142.4725,
+    "radiusMeter": 35,
+    "type": "CULTURAL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_social_education_center",
+    "name": "上富良野町社会教育総合センター",
+    "latitude": 43.4578,
+    "longitude": 142.4731,
+    "radiusMeter": 40,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 110
+    }
+  },
+  {
+    "id": "kamifurano_town_gym",
+    "name": "上富良野町社会体育館",
+    "latitude": 43.4595,
+    "longitude": 142.4745,
+    "radiusMeter": 45,
+    "type": "SPORT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "kamifurano_fire_dept",
+    "name": "上富良野消防署",
+    "latitude": 43.4598,
+    "longitude": 142.4691,
+    "radiusMeter": 35,
+    "type": "FIRE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_police_station",
+    "name": "富良野警察署 上富良野交番",
+    "latitude": 43.4569,
+    "longitude": 142.4678,
+    "radiusMeter": 30,
+    "type": "POLICE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_fukushi_center",
+    "name": "上富良野町保健福祉総合センター",
+    "latitude": 43.4565,
+    "longitude": 142.4712,
+    "radiusMeter": 40,
+    "type": "WELFARE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 110
+    }
+  },
+  {
+    "id": "kamifurano_seibutsu_center",
+    "name": "土の館",
+    "latitude": 43.4721,
+    "longitude": 142.4510,
+    "radiusMeter": 40,
+    "type": "CULTURAL",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "yakiniku_hokkaido_meat",
+    "name": "谷口精肉店",
+    "latitude": 43.4559,
+    "longitude": 142.4665,
+    "radiusMeter": 30,
+    "type": "SHOP",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 110,
+      "itemId": "butasagari"
+    }
+  },
+  {
+    "id": "restaurant_fumis",
+    "name": "第一食堂",
+    "latitude": 43.4575,
+    "longitude": 142.4668,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "set_meal"
+    }
+  },
+  {
+    "id": "cafe_tekuteku",
+    "name": "カフェ てくてく",
+    "latitude": 43.4589,
+    "longitude": 142.4698,
+    "radiusMeter": 30,
+    "type": "CAFE",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 110,
+      "itemId": "coffee"
+    }
+  },
+  {
+    "id": "miyama_tonkatsu",
+    "name": "まんさく",
+    "latitude": 43.4550,
+    "longitude": 142.4688,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "furano_glass_kamifurano",
+    "name": "かみふらのファーム＆カフェ",
+    "latitude": 43.4862,
+    "longitude": 142.4530,
+    "radiusMeter": 35,
+    "type": "CAFE",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 130,
+      "itemId": "sweets"
+    }
+  },
+  {
+    "id": "kamifurano_junior_high",
+    "name": "上富良野中学校",
+    "latitude": 43.4545,
+    "longitude": 142.4732,
+    "radiusMeter": 40,
+    "type": "JUNIOR_HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_elementary",
+    "name": "上富良野小学校",
+    "latitude": 43.4601,
+    "longitude": 142.4710,
+    "radiusMeter": 40,
+    "type": "ELEMENTARY_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "kamifurano_post_office_alt",
+    "name": "上富良野郵便局",
+    "latitude": 43.4561,
+    "longitude": 142.4682,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashinaka_post_office",
+    "name": "東中郵便局",
+    "latitude": 43.4285,
+    "longitude": 142.4982,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "asahikawa_shinkin_kamifurano",
+    "name": "旭川信用金庫 上富良野支店",
+    "latitude": 43.4569,
+    "longitude": 142.4665,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "ja_furano_kamifurano",
+    "name": "JAふらの 上富良野支店",
+    "latitude": 43.4581,
+    "longitude": 142.4648,
+    "radiusMeter": 35,
+    "type": "BANK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  }
+]

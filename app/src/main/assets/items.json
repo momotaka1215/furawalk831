@@ -1,0 +1,49 @@
+{
+  "version": 10,
+  "checkInRewardConfig": {
+    "probabilityGroups": [
+      { "name": "special", "chance": 0.001, "itemIds": ["food_special_snack", "food_mystery"] },
+      { "name": "max_recovery", "chance": 0.5, "itemIds": ["food_hunger_max", "food_happiness_max", "food_friendship_max"] },
+      { "name": "ambivalence", "chance": 0.5, "itemIds": ["food_love", "food_healthy"] },
+      { "name": "medium_recovery", "chance": 5.0, "itemIds": ["food_meat", "food_vege", "food_sweet", "food_nutrition"] },
+      { "name": "normal", "chance": 15.0, "itemIds": ["food_chicken", "food_tuna", "food_fruit"] },
+      { "name": "shampoo", "chance": 10.0, "itemIds": ["item_shampoo"] },
+      { "name": "happiness", "chance": 10.0, "itemIds": ["food_sweet", "play_cat_teaser", "play_chew_toy"] },
+      { "name": "play_goods", "chance": 5.0, "itemIds": ["play_cat_teaser", "play_chew_toy", "play_stick", "play_frisbee", "play_feather", "play_jungle_gym"] }
+    ]
+  },
+  "items": [
+    {
+      "id": "souvenir_melon",
+      "name": "山部メロン",
+      "description": "🍈 山部エリアで拾った甘いメロン。高く売れるぞ！",
+      "category": "SOUVENIR",
+      "shopType": "NONE",
+      "price": 0,
+      "sellPrice": 800,
+      "meritText": "高級品",
+      "effects": [
+        { "type": "HUNGER", "value": 0.5 },
+        { "type": "HAPPINESS", "value": 0.5 },
+        { "type": "EXP", "value": 100 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "souvenir_heso_manju",
+      "name": "へそまんぢう",
+      "description": "♨️ 富良野名物のまんじゅう。お土産にぴったり。",
+      "category": "SOUVENIR",
+      "shopType": "NONE",
+      "price": 0,
+      "sellPrice": 300,
+      "meritText": "名産品",
+      "effects": [
+        { "type": "HUNGER", "value": 0.3 },
+        { "type": "HAPPINESS", "value": 0.3 },
+        { "type": "EXP", "value": 50 }
+      ],
+      "imageUrl": ""
+    }
+  ]
+}

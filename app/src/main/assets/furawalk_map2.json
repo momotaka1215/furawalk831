@@ -1,0 +1,844 @@
+[
+  {
+    "id": "crossing_yamabe_01",
+    "name": "交差点",
+    "latitude": 43.247373640051215,
+    "longitude": 142.37620796489344,
+    "radiusMeter": 20,
+    "type": "CROSSING",
+    "priority": 2,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 30
+    }
+  },
+  {
+    "id": "crossing_yamabe_02",
+    "name": "交差点",
+    "latitude": 43.242528,
+    "longitude": 142.375583,
+    "radiusMeter": 20,
+    "type": "CROSSING",
+    "priority": 2,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 30
+    }
+  },
+  {
+    "id": "kinohana_park",
+    "name": "黄の花公園",
+    "latitude": 43.24148877213941,
+    "longitude": 142.3775749915142,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "midorigaoka_park",
+    "name": "緑が丘公園",
+    "latitude": 43.24642983487322,
+    "longitude": 142.37531329219377,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "sakura_park",
+    "name": "さくら公園",
+    "latitude": 43.240722832193754,
+    "longitude": 142.3822420350405,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "crossing_yamabe_03",
+    "name": "交差点",
+    "latitude": 43.24758468557164,
+    "longitude": 142.37981195371432,
+    "radiusMeter": 20,
+    "type": "CROSSING",
+    "priority": 2,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 30
+    }
+  },
+  {
+    "id": "crossing_yamabe_04",
+    "name": "交差点",
+    "latitude": 43.2464293,
+    "longitude": 142.3825612,
+    "radiusMeter": 20.0,
+    "type": "CROSSING",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 30
+    }
+  },
+  {
+    "id": "cafe_furawa",
+    "name": "ちいさなログカフェふらわ",
+    "latitude": 43.24437258599882,
+    "longitude": 142.38249414307677,
+    "radiusMeter": 30,
+    "type": "CAFE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_recycle_center",
+    "name": "リサイクルセンター",
+    "latitude": 43.23885,
+    "longitude": 142.35328,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_hokusei_community",
+    "name": "山部北星地区コミュニティセンター",
+    "latitude": 43.2562,
+    "longitude": 142.3831,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_minami_community",
+    "name": "山部南地区コミュニティセンター",
+    "latitude": 43.23932,
+    "longitude": 142.38274,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_nishi_community",
+    "name": "山部西地区コミュニティセンター",
+    "latitude": 43.24126,
+    "longitude": 142.37788,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_nanyo_community",
+    "name": "山部南陽地区コミュニティセンター",
+    "latitude": 43.2341,
+    "longitude": 142.3561,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "furano_baseball_ground",
+    "name": "富良野市民野球場",
+    "latitude": 43.23115,
+    "longitude": 142.37428,
+    "radiusMeter": 40,
+    "type": "BASEBALL_GROUND",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "taiyo_no_sato_park_golf",
+    "name": "太陽の里パークゴルフ場",
+    "latitude": 43.2470,
+    "longitude": 142.3500,
+    "radiusMeter": 40,
+    "type": "PARK_GOLF_COURSE",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_post_office",
+    "name": "山部郵便局",
+    "latitude": 43.24316,
+    "longitude": 142.38289,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_jukouen",
+    "name": "富良野市寿光園",
+    "latitude": 43.24381,
+    "longitude": 142.37481,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_dental",
+    "name": "山部歯科クリニック",
+    "latitude": 43.2408,
+    "longitude": 142.38268,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80
+    }
+  },
+  {
+    "id": "yamabe_elementary_school",
+    "name": "山部小学校",
+    "latitude": 43.24512,
+    "longitude": 142.3841,
+    "radiusMeter": 30,
+    "type": "ELEMENTARY_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "ja_furano_yamabe",
+    "name": "JAふらの 山部支店",
+    "latitude": 43.24542584630991,
+    "longitude": 142.38288623050144,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "ja_furano_fuel_yamabe",
+    "name": "JAふらの アロック山部店",
+    "latitude": 43.2447,
+    "longitude": 142.3824,
+    "radiusMeter": 40,
+    "type": "MAINTENANCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_jinja",
+    "name": "山部神社",
+    "latitude": 43.246258745198126,
+    "longitude": 142.38547959361475,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "daitokuji",
+    "name": "真宗大谷派 大徳寺",
+    "latitude": 43.24182206553383,
+    "longitude": 142.38365672702264,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "soukouji",
+    "name": "曹洞宗 曹光寺",
+    "latitude": 43.242505821104736,
+    "longitude": 142.38298093156104,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "kouenji",
+    "name": "浄土真宗本願寺派 光圓寺",
+    "latitude": 43.24182104638193,
+    "longitude": 142.3836968552048,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_chuo_park",
+    "name": "山部中央公園",
+    "latitude": 43.24477022748125,
+    "longitude": 142.38262555958727,
+    "radiusMeter": 35,
+    "type": "PARK",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_taiyo_no_sato",
+    "name": "山部自然公園 太陽の里",
+    "latitude": 43.2465241,
+    "longitude": 142.3420985,
+    "radiusMeter": 60,
+    "type": "PARK",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 180
+    }
+  },
+  {
+    "id": "jr_yamabe_station",
+    "name": "JR山部駅",
+    "latitude": 43.244715,
+    "longitude": 142.384780,
+    "radiusMeter": 40,
+    "type": "STATION",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_lifelong_learning_center",
+    "name": "山部生涯学習センター",
+    "latitude": 43.2414153,
+    "longitude": 142.3810334,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "tokyo_university_yamabe_forest",
+    "name": "東京大学北海道演習林 山部事務所",
+    "latitude": 43.24330,
+    "longitude": 142.38723,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "seven_eleven_yamabe",
+    "name": "セブン-イレブン 富良野山部店",
+    "latitude": 43.2384273,
+    "longitude": 142.3802367,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "seicomart_yamabe",
+    "name": "セイコーマート 富良野山部店",
+    "latitude": 43.2427971,
+    "longitude": 142.3828220,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "yamabe_drive_in",
+    "name": "山部ドライブイン",
+    "latitude": 43.23969,
+    "longitude": 142.38079,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "yamabe_chuzaisho",
+    "name": "富良野警察署 山部駐在所",
+    "latitude": 43.2448463,
+    "longitude": 142.3821168,
+    "radiusMeter": 30,
+    "type": "POLICE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_clinic",
+    "name": "山部診療所",
+    "latitude": 43.2462702,
+    "longitude": 142.3837857,
+    "radiusMeter": 30.0,
+    "type": "HOSPITAL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "kaoruan",
+    "name": "薫風庵",
+    "latitude": 43.24398,
+    "longitude": 142.38337,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "katsuchan_sushi",
+    "name": "勝ちゃん鮨",
+    "latitude": 43.24611163955601,
+    "longitude": 142.38243077324665,
+    "radiusMeter": 30,
+    "type": "SUSHI",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "sushi"
+    }
+  },
+  {
+    "id": "ippuku",
+    "name": "割烹食堂 一福",
+    "latitude": 43.24627866666774,
+    "longitude": 142.38292282288768,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "panier_yamabe",
+    "name": "パニエ",
+    "latitude": 43.24385,
+    "longitude": 142.38291,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100,
+      "itemId": "coffee"
+    }
+  },
+  {
+    "id": "motoryokan_cafe",
+    "name": "MOTORYOKAN Guesthouse & Cafe",
+    "latitude": 43.24444,
+    "longitude": 142.38426,
+    "radiusMeter": 30,
+    "type": "CAFE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "coffee"
+    }
+  },
+  {
+    "id": "yamabe_shokokai",
+    "name": "山部商工会",
+    "latitude": 43.24547,
+    "longitude": 142.38569,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nagaokaya",
+    "name": "長岡屋",
+    "latitude": 43.24360,
+    "longitude": 142.38236,
+    "radiusMeter": 30,
+    "type": "SHOP",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80
+    }
+  },
+  {
+    "id": "seio_jiko",
+    "name": "星央自興株式会社",
+    "latitude": 43.24188,
+    "longitude": 142.38112,
+    "radiusMeter": 30,
+    "type": "COMPANY",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_nursery",
+    "name": "山部保育所",
+    "latitude": 43.247526,
+    "longitude": 142.379713,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_welfare_center",
+    "name": "山部福祉センター",
+    "latitude": 43.2464785,
+    "longitude": 142.3841913,
+    "radiusMeter": 30.0,
+    "type": "PUBLIC",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_fire_station",
+    "name": "富良野消防署 山部出張所",
+    "latitude": 43.245388,
+    "longitude": 142.385892,
+    "radiusMeter": 30,
+    "type": "FIRE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_junior_high_school",
+    "name": "旧山部中学校",
+    "latitude": 43.250482,
+    "longitude": 142.388835,
+    "radiusMeter": 30,
+    "type": "JUNIOR_HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "sumiyaki_sanpo",
+    "name": "炭やき さんぽ",
+    "latitude": 43.24426033094552,
+    "longitude": 142.38364550138425,
+    "radiusMeter": 30,
+    "type": "IZAKAYA",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120,
+      "itemId": "yakitori"
+    }
+  },
+  {
+    "id": "kyoudohanei",
+    "name": "郷土繁栄之礎",
+    "latitude": 43.245873174156,
+    "longitude": 142.38352823885262,
+    "radiusMeter": 30,
+    "type": "HISTORIC_SITE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  }
+]

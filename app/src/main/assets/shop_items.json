@@ -1,0 +1,376 @@
+{
+  "items": [
+    {
+      "id": "food_chicken",
+      "name": "チキン味フード",
+      "description": "🍗 鶏肉をベースにしたフード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 120,
+      "sellPrice": 30,
+      "meritText": "イヌの好物、空腹回復",
+      "effects": [{ "type": "HUNGER", "value": 0.3 }, { "type": "EXP", "value": 20 }],
+      "favoriteSpecies": "dog",
+      "favoriteBonusEffects": [{ "type": "FRIENDSHIP", "value": 0.05 }, { "type": "HAPPINESS", "value": 0.1 }, { "type": "EXP", "value": 50 }],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/chicken.png"
+    },
+    {
+      "id": "food_tuna",
+      "name": "ツナ味フード",
+      "description": "🐟 新鮮なマグロを使用したフード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 120,
+      "sellPrice": 30,
+      "meritText": "ネコの好物、空腹回復",
+      "effects": [{ "type": "HUNGER", "value": 0.3 }, { "type": "EXP", "value": 20 }],
+      "favoriteSpecies": "cat",
+      "favoriteBonusEffects": [{ "type": "FRIENDSHIP", "value": 0.05 }, { "type": "HAPPINESS", "value": 0.1 }, { "type": "EXP", "value": 50 }],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/tuna.png"
+    },
+    {
+      "id": "food_fruit",
+      "name": "フルーツ味フード",
+      "description": "🍌 完熟バナナなどをブレンドしたフード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 120,
+      "sellPrice": 30,
+      "meritText": "サルの好物、空腹回復",
+      "effects": [{ "type": "HUNGER", "value": 0.3 }, { "type": "EXP", "value": 20 }],
+      "favoriteSpecies": "monkey",
+      "favoriteBonusEffects": [{ "type": "FRIENDSHIP", "value": 0.05 }, { "type": "HAPPINESS", "value": 0.1 }, { "type": "EXP", "value": 50 }],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/fruit.png"
+    },
+    {
+      "id": "food_meat",
+      "name": "ミートフード",
+      "description": "🥩 肉厚な特製フード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 250,
+      "sellPrice": 60,
+      "meritText": "空腹＋体力回復大",
+      "demeritText": "体型が太る",
+      "effects": [
+        { "type": "HUNGER", "value": 0.4 },
+        { "type": "HEALTH", "value": 0.2 },
+        { "type": "BODY_TYPE", "value": 3.0 },
+        { "type": "WEIGHT", "value": 0.2 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/meat.png"
+    },
+    {
+      "id": "food_vege",
+      "name": "ベジフード",
+      "description": "🥬 新鮮な野菜フード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 150,
+      "sellPrice": 40,
+      "meritText": "健康回復大",
+      "demeritText": "空腹回復が少ない",
+      "effects": [
+        { "type": "HUNGER", "value": 0.15 },
+        { "type": "HEALTH", "value": 0.3 },
+        { "type": "BODY_TYPE", "value": -0.5 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/vege.png"
+    },
+    {
+      "id": "food_sweet",
+      "name": "スイーツ",
+      "description": "🍰 甘いケーキ。",
+      "category": "TREAT",
+      "shopType": "FIXED",
+      "price": 300,
+      "sellPrice": 80,
+      "meritText": "ごきげん大UP",
+      "demeritText": "体型が太る",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.9 },
+        { "type": "BODY_TYPE", "value": 4.0 },
+        { "type": "WEIGHT", "value": 0.15 },
+        { "type": "EXP", "value": 60 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/sweet.png"
+    },
+    {
+      "id": "food_nutrition",
+      "name": "栄養フード",
+      "description": "🥛 栄養バランスが完璧なフード。",
+      "category": "FOOD",
+      "shopType": "FIXED",
+      "price": 200,
+      "sellPrice": 50,
+      "meritText": "バランスが良い",
+      "effects": [
+        { "type": "HUNGER", "value": 0.25 },
+        { "type": "HEALTH", "value": 0.15 },
+        { "type": "HAPPINESS", "value": 0.02 },
+        { "type": "EXP", "value": 35 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/nutrition.png"
+    },
+    {
+      "id": "item_shampoo",
+      "name": "シャンプー",
+      "description": "🧼 ペットを綺麗に洗ってあげる。清潔さが大幅にアップ。",
+      "category": "MEDICAL",
+      "shopType": "FIXED",
+      "price": 300,
+      "sellPrice": 50,
+      "meritText": "清潔さ大幅回復",
+      "effects": [
+        { "type": "CLEANLINESS", "value": 0.8 },
+        { "type": "HAPPINESS", "value": 0.2 },
+        { "type": "EXP", "value": 40 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "food_love",
+      "name": "ラブフード",
+      "description": "❤️ 食べると仲良くなれるハート型のフード。",
+      "category": "FOOD",
+      "shopType": "BOKKA",
+      "price": 800,
+      "sellPrice": 200,
+      "meritText": "なつき度大UP",
+      "effects": [
+        { "type": "FRIENDSHIP", "value": 0.15 },
+        { "type": "HUNGER", "value": 0.05 },
+        { "type": "EXP", "value": 60 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/love.png"
+    },
+    {
+      "id": "food_healthy",
+      "name": "ヘルシーフード",
+      "description": "🌿 健康第一の特製フード。",
+      "category": "FOOD",
+      "shopType": "BOKKA",
+      "price": 500,
+      "sellPrice": 120,
+      "meritText": "健康大幅回復",
+      "effects": [
+        { "type": "HEALTH", "value": 0.6 },
+        { "type": "HAPPINESS", "value": -0.1 },
+        { "type": "EXP", "value": 50 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/healthy.png"
+    },
+    {
+      "id": "food_hunger_max",
+      "name": "満腹MAX肉",
+      "description": "🍖 一瞬で満腹になる巨大な肉。",
+      "category": "FOOD",
+      "shopType": "BOKKA",
+      "price": 2000,
+      "sellPrice": 500,
+      "meritText": "一瞬で満腹",
+      "demeritText": "激太り",
+      "effects": [
+        { "type": "HUNGER", "value": 1.0 },
+        { "type": "BODY_TYPE", "value": 8.0 },
+        { "type": "WEIGHT", "value": 0.5 },
+        { "type": "EXP", "value": 100 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/hunger_max.png"
+    },
+    {
+      "id": "food_happiness_max",
+      "name": "ごきげんMAXケーキ",
+      "description": "😊 究極の幸せを味わえるケーキ。",
+      "category": "TREAT",
+      "shopType": "BOKKA",
+      "price": 2500,
+      "sellPrice": 600,
+      "meritText": "一瞬で最高のごきげん",
+      "effects": [
+        { "type": "HAPPINESS", "value": 1.3 },
+        { "type": "FATIGUE", "value": 0.3 },
+        { "type": "EXP", "value": 120 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/happiness_max.png"
+    },
+    {
+      "id": "food_friendship_max",
+      "name": "なつきMAXクッキー",
+      "description": "💖 絆が一気に深まるクッキー。",
+      "category": "TREAT",
+      "shopType": "BOKKA",
+      "price": 5000,
+      "sellPrice": 1200,
+      "meritText": "なつき度大幅アップ",
+      "effects": [
+        { "type": "FRIENDSHIP", "value": 0.4 },
+        { "type": "AFFECTION", "value": 5.0 },
+        { "type": "HAPPINESS", "value": 0.3 },
+        { "type": "EXP", "value": 170 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/friendship_max.png"
+    },
+    {
+      "id": "food_special_snack",
+      "name": "万能おやつ",
+      "description": "🎁 万能な効果を持つおやつ。",
+      "category": "TREAT",
+      "shopType": "BOKKA",
+      "price": 3000,
+      "sellPrice": 800,
+      "meritText": "全ステータス微回復",
+      "effects": [
+        { "type": "HUNGER", "value": 0.1 },
+        { "type": "HAPPINESS", "value": 0.1 },
+        { "type": "FRIENDSHIP", "value": 0.05 },
+        { "type": "EXP", "value": 80 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/special_snack.png"
+    },
+    {
+      "id": "food_mystery",
+      "name": "？？？フード",
+      "description": "🎲 何が起きるか分からない不思議なフード。",
+      "category": "OTHER",
+      "shopType": "BOKKA",
+      "price": 1000,
+      "sellPrice": 100,
+      "meritText": "運試し",
+      "effects": [
+        { "type": "MYSTERY", "value": 0.0 }
+      ],
+      "imageUrl": "https://fulavono.neocities.org/furawalk/item_image/mystery.png"
+    },
+    {
+      "id": "play_cat_teaser",
+      "name": "ねこじゃらし",
+      "description": "🐭 猫が大好きなじゃらし。",
+      "category": "PLAY",
+      "shopType": "FIXED",
+      "price": 200,
+      "sellPrice": 50,
+      "meritText": "なつき度↑↑ (猫)",
+      "favoriteSpecies": "cat",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.3 },
+        { "type": "FRIENDSHIP", "value": 0.05 },
+        { "type": "FATIGUE", "value": 0.1 },
+        { "type": "STAMINA", "value": 1.0 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "play_chew_toy",
+      "name": "噛むおもちゃ",
+      "description": "🦴 犬が夢中で噛めるおもちゃ。",
+      "category": "PLAY",
+      "shopType": "FIXED",
+      "price": 250,
+      "sellPrice": 60,
+      "meritText": "なつき度↑ (犬)",
+      "favoriteSpecies": "dog",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.25 },
+        { "type": "FRIENDSHIP", "value": 0.02 },
+        { "type": "FATIGUE", "value": 0.1 },
+        { "type": "STAMINA", "value": 1.0 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "play_stick",
+      "name": "木の枝",
+      "description": "🪵 猿はこれが大好き。",
+      "category": "PLAY",
+      "shopType": "FIXED",
+      "price": 50,
+      "sellPrice": 5,
+      "meritText": "サルの好物",
+      "favoriteSpecies": "monkey",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.15 },
+        { "type": "FRIENDSHIP", "value": 0.02 },
+        { "type": "FATIGUE", "value": 0.1 },
+        { "type": "STAMINA", "value": 1.0 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "play_frisbee",
+      "name": "フリスビー",
+      "description": "🥏 遠くまで飛ぶフリスビー。",
+      "category": "PLAY",
+      "shopType": "TORA",
+      "price": 1500,
+      "sellPrice": 400,
+      "meritText": "活発さ・スタミナUP",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.3 },
+        { "type": "FRIENDSHIP", "value": 0.03 },
+        { "type": "FATIGUE", "value": 0.15 },
+        { "type": "STAMINA", "value": 2.0 },
+        { "type": "EXP", "value": 40 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "play_feather",
+      "name": "羽根のおもちゃ",
+      "description": "🪶 ふわふわした羽根。",
+      "category": "PLAY",
+      "shopType": "TORA",
+      "price": 1200,
+      "sellPrice": 300,
+      "meritText": "ごきげん↑ (猫)",
+      "favoriteSpecies": "cat",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.28 },
+        { "type": "FRIENDSHIP", "value": 0.04 },
+        { "type": "FATIGUE", "value": 0.1 },
+        { "type": "STAMINA", "value": 1.0 },
+        { "type": "EXP", "value": 30 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "play_jungle_gym",
+      "name": "ジャングルジム",
+      "description": "🪜 小さなペット用のジム。",
+      "category": "PLAY",
+      "shopType": "TORA",
+      "price": 8000,
+      "sellPrice": 2000,
+      "meritText": "大幅なスタミナUP",
+      "effects": [
+        { "type": "HAPPINESS", "value": 0.45 },
+        { "type": "FRIENDSHIP", "value": 0.05 },
+        { "type": "FATIGUE", "value": 0.2 },
+        { "type": "STAMINA", "value": 3.0 },
+        { "type": "EXP", "value": 50 }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "medical_injection",
+      "name": "注射",
+      "description": "💉 体力を大幅に回復させる。病気状態の特効薬。",
+      "category": "MEDICAL",
+      "shopType": "FIXED",
+      "price": 500,
+      "sellPrice": 100,
+      "meritText": "健康大幅回復",
+      "effects": [
+        { "type": "HEALTH", "value": 0.8 },
+        { "type": "HAPPINESS", "value": -0.2 },
+        { "type": "EXP", "value": 50 }
+      ],
+      "imageUrl": ""
+    }
+  ]
+}

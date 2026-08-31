@@ -1,0 +1,2208 @@
+[
+  {
+    "id": "furano_city_hall",
+    "name": "富良野市複合庁舎",
+    "latitude": 43.342336,
+    "longitude": 142.383447,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_health_center",
+    "name": "富良野市総合保健センター",
+    "latitude": 43.3426675,
+    "longitude": 142.3820473,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_city_office",
+    "name": "山部支所",
+    "latitude": 43.2455346,
+    "longitude": 142.3860084,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashiyama_city_office",
+    "name": "東山支所",
+    "latitude": 43.21481689,
+    "longitude": 142.4413116,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_recycle_center",
+    "name": "リサイクルセンター",
+    "latitude": 43.23983,
+    "longitude": 142.35194,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "furano_wine_factory",
+    "name": "ふらのワイン工場",
+    "latitude": 43.35890489,
+    "longitude": 142.3729351,
+    "radiusMeter": 40,
+    "type": "TOURISM",
+    "rewards": {
+      "exp": 200,
+      "money": 150,
+      "itemId": "furano_wine"
+    }
+  },
+  {
+    "id": "furano_nursing_college",
+    "name": "富良野看護専門学校",
+    "latitude": 43.34375064,
+    "longitude": 142.3779143,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "nijiiro_nursery",
+    "name": "虹いろ保育所",
+    "latitude": 43.3430998,
+    "longitude": 142.3873432,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_nursery",
+    "name": "山部保育所",
+    "latitude": 43.2476669,
+    "longitude": 142.3798127,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "higashiyama_nursery",
+    "name": "東山保育所",
+    "latitude": 43.2190055,
+    "longitude": 142.4419881,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "rokugo_nursery",
+    "name": "あおぞら保育所",
+    "latitude": 43.3009523,
+    "longitude": 142.5222462,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "furano_lifelong_learning",
+    "name": "生涯学習センター",
+    "latitude": 43.2414153,
+    "longitude": 142.3810334,
+    "radiusMeter": 30,
+    "type": "CULTURAL",
+    "rewards": {
+      "exp": 180,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_library",
+    "name": "市立富良野図書館",
+    "latitude": 43.34556152,
+    "longitude": 142.3845464,
+    "radiusMeter": 30,
+    "type": "CULTURAL",
+    "rewards": {
+      "exp": 180,
+      "money": 100
+    }
+  },
+  {
+    "id": "nunobe_local_arts_hall",
+    "name": "郷土芸能伝習館",
+    "latitude": 43.2952541,
+    "longitude": 142.4036616,
+    "radiusMeter": 30,
+    "type": "CULTURAL",
+    "rewards": {
+      "exp": 180,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_theater_factory",
+    "name": "富良野演劇工場",
+    "latitude": 43.32617676,
+    "longitude": 142.370465,
+    "radiusMeter": 40,
+    "type": "CULTURAL",
+    "rewards": {
+      "exp": 200,
+      "money": 120
+    }
+  },
+  {
+    "id": "furano_women_center",
+    "name": "女性センター",
+    "latitude": 43.3431,
+    "longitude": 142.38295,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "furano_fureai_center",
+    "name": "ふれあいセンター",
+    "latitude": 43.3420144,
+    "longitude": 142.3983324,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "furano_crematorium",
+    "name": "富良野市火葬場",
+    "latitude": 43.32526,
+    "longitude": 142.42609,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "kitanomine_child_center",
+    "name": "北の峰児童館",
+    "latitude": 43.34385,
+    "longitude": 142.36843,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "midorimachi_child_center",
+    "name": "緑町児童センター",
+    "latitude": 43.33537,
+    "longitude": 142.39539,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "asamachi_child_center",
+    "name": "麻町児童センター",
+    "latitude": 43.3441,
+    "longitude": 142.39969,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "tobu_child_center",
+    "name": "東部児童センター",
+    "latitude": 43.3511,
+    "longitude": 142.39356,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "katsuragi_child_center",
+    "name": "桂木児童センター",
+    "latitude": 43.34969,
+    "longitude": 142.38171,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "asahi_hall",
+    "name": "朝日会館",
+    "latitude": 43.34967,
+    "longitude": 142.38721,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "kitanomine_community_center",
+    "name": "北の峰コミュニティセンター",
+    "latitude": 43.34264225,
+    "longitude": 142.3670712,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "suehiro_community_center",
+    "name": "末広コミュニティセンター",
+    "latitude": 43.33977,
+    "longitude": 142.38221,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "nishi_community_center",
+    "name": "西地区コミュニティセンター",
+    "latitude": 43.35192,
+    "longitude": 142.37713,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "sakaemachi_community_center",
+    "name": "栄町コミュニティセンター",
+    "latitude": 43.3425,
+    "longitude": 142.3906,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "minami_community_center",
+    "name": "南コミュニティセンター",
+    "latitude": 43.32982,
+    "longitude": 142.39599,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "mizuho_community_center",
+    "name": "瑞穂コミュニティセンター",
+    "latitude": 43.34663,
+    "longitude": 142.3959,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "toshun_community_center",
+    "name": "東春地区コミュニティセンター",
+    "latitude": 43.33699,
+    "longitude": 142.39793,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "misono_hall",
+    "name": "御園会館",
+    "latitude": 43.301682,
+    "longitude": 142.367744,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "ikuryou_hall",
+    "name": "育良会館",
+    "latitude": 43.32175,
+    "longitude": 142.37858,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "ogiyama_hall",
+    "name": "扇山公民会館",
+    "latitude": 43.3193,
+    "longitude": 142.40618,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "torinuma_hall",
+    "name": "鳥沼会館",
+    "latitude": 43.3431842,
+    "longitude": 142.4355137,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "nunobe_hall",
+    "name": "布部会館",
+    "latitude": 43.29469239,
+    "longitude": 142.4032897,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "shimanoshita_hall",
+    "name": "島ノ下会館",
+    "latitude": 43.37468147,
+    "longitude": 142.3499072,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yahataoka_hall",
+    "name": "八幡丘会館",
+    "latitude": 43.32726,
+    "longitude": 142.46911,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "furebetsu_center",
+    "name": "布礼別集落センター",
+    "latitude": 43.335046,
+    "longitude": 142.5207,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "rokugo_center",
+    "name": "麓郷集落センター",
+    "latitude": 43.30067,
+    "longitude": 142.52272,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_hokusei_community",
+    "name": "山部北星地区コミュニティセンター",
+    "latitude": 43.27065421,
+    "longitude": 142.3742227,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_minami_community",
+    "name": "山部南地区コミュニティセンター",
+    "latitude": 43.23932,
+    "longitude": 142.38274,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_nishi_community",
+    "name": "山部西地区コミュニティセンター",
+    "latitude": 43.24126,
+    "longitude": 142.37788,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "yamabe_nanyo_community",
+    "name": "山部南陽地区コミュニティセンター",
+    "latitude": 43.218522,
+    "longitude": 142.366349,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "tairazawa_center",
+    "name": "平沢集落センター",
+    "latitude": 43.26571972,
+    "longitude": 142.496316,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "nishitappu_center",
+    "name": "西達布集落センター",
+    "latitude": 43.22159888,
+    "longitude": 142.4972616,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "rouseppu_hall",
+    "name": "老節布会館",
+    "latitude": 43.23791,
+    "longitude": 142.47173,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "sannoyama_hall",
+    "name": "三の山会館",
+    "latitude": 43.20426474,
+    "longitude": 142.569295,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "furano_sports_center",
+    "name": "富良野スポーツセンター",
+    "latitude": 43.35335769,
+    "longitude": 142.3843131,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_sports_park",
+    "name": "富良野総合スポーツ公園",
+    "latitude": 43.35318,
+    "longitude": 142.38648,
+    "radiusMeter": 40,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sorachigawa_sports_park",
+    "name": "空知川河川運動公園",
+    "latitude": 43.34003,
+    "longitude": 142.37898,
+    "radiusMeter": 40,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_baseball_ground",
+    "name": "富良野市民野球場",
+    "latitude": 43.23115,
+    "longitude": 142.37428,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "wakaba_baseball_ground",
+    "name": "市営若葉球場",
+    "latitude": 43.33692,
+    "longitude": 142.39313,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashiyama_swimming_pool",
+    "name": "東山屋外水泳プール",
+    "latitude": 43.2102196,
+    "longitude": 142.4550757,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "kanaman_park_golf",
+    "name": "金満緑地公園パークゴルフ場",
+    "latitude": 43.36956,
+    "longitude": 142.35577,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "taiyo_no_sato_park_golf",
+    "name": "太陽の里パークゴルフ場",
+    "latitude": 43.2489947,
+    "longitude": 142.3448756,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashiyama_park_golf",
+    "name": "東山パークゴルフ場",
+    "latitude": 43.21097,
+    "longitude": 142.45466,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furatto_indoor_pool",
+    "name": "中心街活性化センターふらっと（屋内プール）",
+    "latitude": 43.34746,
+    "longitude": 142.38937,
+    "radiusMeter": 40,
+    "type": "SPORT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "asahigaoka_ski_course",
+    "name": "朝日ヶ丘歩くスキーコース",
+    "latitude": 43.34155,
+    "longitude": 142.36892,
+    "radiusMeter": 40,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_post_office",
+    "name": "富良野郵便局",
+    "latitude": 43.34575,
+    "longitude": 142.38529,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_wakaba_post_office",
+    "name": "富良野若葉郵便局",
+    "latitude": 43.33887,
+    "longitude": 142.39423,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_asa_post_office",
+    "name": "富良野麻町簡易郵便局",
+    "latitude": 43.34486,
+    "longitude": 142.39834,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "kitanomine_post_office",
+    "name": "北の峰簡易郵便局",
+    "latitude": 43.34422,
+    "longitude": 142.37001,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "yamabe_post_office",
+    "name": "山部郵便局",
+    "latitude": 43.24316,
+    "longitude": 142.38289,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "nunobe_post_office",
+    "name": "布部郵便局",
+    "latitude": 43.29276,
+    "longitude": 142.40227,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "rokugo_post_office",
+    "name": "麓郷郵便局",
+    "latitude": 43.30121,
+    "longitude": 142.52428,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashiyama_post_office",
+    "name": "東山郵便局",
+    "latitude": 43.21574,
+    "longitude": 142.44271,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "nishitappu_post_office",
+    "name": "西達布郵便局",
+    "latitude": 43.21863,
+    "longitude": 142.49804,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "rouseppu_post_office",
+    "name": "老節布簡易郵便局",
+    "latitude": 43.23727,
+    "longitude": 142.47251,
+    "radiusMeter": 30,
+    "type": "POST",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "furano_station",
+    "name": "JR富良野駅",
+    "latitude": 43.34689,
+    "longitude": 142.39132,
+    "radiusMeter": 50,
+    "type": "STATION",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "concierge_furano",
+    "name": "コンシェルジュ フラノ",
+    "latitude": 43.3472,
+    "longitude": 142.38801,
+    "radiusMeter": 30,
+    "type": "TOURISM",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_marche",
+    "name": "フラノマルシェ",
+    "latitude": 43.34222,
+    "longitude": 142.38713,
+    "radiusMeter": 40,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 150,
+      "money": 100,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "furano_marche_2",
+    "name": "フラノマルシェ2",
+    "latitude": 43.34268,
+    "longitude": 142.3876,
+    "radiusMeter": 40,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 150,
+      "money": 100,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "furano_city_complex",
+    "name": "富良野市複合庁舎",
+    "latitude": 43.342336,
+    "longitude": 142.383447,
+    "radiusMeter": 40,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_tax_office",
+    "name": "富良野税務署",
+    "latitude": 43.349258,
+    "longitude": 142.3846742,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_summary_court",
+    "name": "富良野簡易裁判所",
+    "latitude": 43.342017,
+    "longitude": 142.381642,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_agriculture_development",
+    "name": "富良野地域農業開発事業所",
+    "latitude": 43.3527513,
+    "longitude": 142.3829373,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_road_office",
+    "name": "富良野道路事務所",
+    "latitude": 43.325035,
+    "longitude": 142.4012725,
+    "radiusMeter": 30,
+    "type": "GOVERNMENT",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_wakaba_convenience",
+    "name": "セブンイレブン富良野若松店",
+    "latitude": 43.3428316,
+    "longitude": 142.3853904,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "seicomart_furano",
+    "name": "セイコーマート富良野店",
+    "latitude": 43.347555,
+    "longitude": 142.384276,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "furano_senior_welfare",
+    "name": "富良野市老人福祉センター",
+    "latitude": 43.34153,
+    "longitude": 142.39834,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "kitanomine_heights",
+    "name": "特別養護老人ホーム北の峯ハイツ",
+    "latitude": 43.34766,
+    "longitude": 142.40152,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "furano_jukouen",
+    "name": "富良野市寿光園",
+    "latitude": 43.24381,
+    "longitude": 142.37481,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "suehiro_senior_housing",
+    "name": "サービス付き高齢者向け住宅すえひろ",
+    "latitude": 43.34094,
+    "longitude": 142.38702,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "sarasa_furano",
+    "name": "さらさ富良野",
+    "latitude": 43.34325,
+    "longitude": 142.38719,
+    "radiusMeter": 30,
+    "type": "WELFARE",
+    "rewards": {
+      "exp": 100,
+      "money": 50
+    }
+  },
+  {
+    "id": "kurino_dental",
+    "name": "くりの歯科クリニック",
+    "latitude": 43.34538,
+    "longitude": 142.39808,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "furano_pediatric_dental",
+    "name": "ふらの小児歯科矯正歯科",
+    "latitude": 43.34433,
+    "longitude": 142.39096,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "yamabe_dental",
+    "name": "山部歯科クリニック",
+    "latitude": 43.2408,
+    "longitude": 142.38268,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "togashi_dental",
+    "name": "とがし歯科医院",
+    "latitude": 43.35019,
+    "longitude": 142.39225,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "hondori_dental",
+    "name": "本通り歯科医院",
+    "latitude": 43.34602,
+    "longitude": 142.38705,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "yamabe_elementary_school",
+    "name": "山部小学校",
+    "latitude": 43.24512,
+    "longitude": 142.3841,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "jukai_elementary_school",
+    "name": "樹海小学校",
+    "latitude": 43.23684,
+    "longitude": 142.47306,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "ogiyama_elementary_school",
+    "name": "扇山小学校",
+    "latitude": 43.33631,
+    "longitude": 142.39493,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "torinuma_elementary_school",
+    "name": "鳥沼小学校",
+    "latitude": 43.34464,
+    "longitude": 142.43937,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashi_elementary_school",
+    "name": "東小学校",
+    "latitude": 43.34573,
+    "longitude": 142.40229,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_elementary_school",
+    "name": "富良野小学校",
+    "latitude": 43.34473,
+    "longitude": 142.38351,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "nunobe_elementary_school",
+    "name": "布部小学校",
+    "latitude": 43.29737,
+    "longitude": 142.39157,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "hokuyo_bank_furano",
+    "name": "北洋銀行 富良野支店",
+    "latitude": 43.345063,
+    "longitude": 142.3904068,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "hokkaido_bank_furano",
+    "name": "北海道銀行 富良野支店",
+    "latitude": 43.3454427,
+    "longitude": 142.3900314,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "asahikawa_shinkin_furano",
+    "name": "旭川信用金庫 富良野支店",
+    "latitude": 43.3446255,
+    "longitude": 142.3900394,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "ja_furano_head",
+    "name": "JAふらの 本所",
+    "latitude": 43.345137,
+    "longitude": 142.389742,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "ja_furano_yamabe",
+    "name": "JAふらの 山部支店",
+    "latitude": 43.24541,
+    "longitude": 142.38572,
+    "radiusMeter": 30,
+    "type": "BANK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "seicomart_furano_kitanomine",
+    "name": "セイコーマート 富良野北の峰店",
+    "latitude": 43.345833,
+    "longitude": 142.368911,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "seven_eleven_furano_wakamatsu",
+    "name": "セブンイレブン 富良野若松店",
+    "latitude": 43.342832,
+    "longitude": 142.385390,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "seven_eleven_furano_midorimachi",
+    "name": "セブンイレブン 富良野緑町店",
+    "latitude": 43.3417,
+    "longitude": 142.3940,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "lawson_furano_kitanomine",
+    "name": "ローソン 富良野北の峰店",
+    "latitude": 43.3453,
+    "longitude": 142.3698,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "lawson_furano_wakamatsu",
+    "name": "ローソン 富良野若松町店",
+    "latitude": 43.3430,
+    "longitude": 142.3838,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "coop_furano",
+    "name": "コープさっぽろ 富良野店",
+    "latitude": 43.3389,
+    "longitude": 142.3970,
+    "radiusMeter": 40,
+    "type": "SUPERMARKET",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "ralse_furano_asahi",
+    "name": "ラルズマート 富良野あさひ店",
+    "latitude": 43.3467,
+    "longitude": 142.3867,
+    "radiusMeter": 40,
+    "type": "SUPERMARKET",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "a_coop_furano_forest",
+    "name": "エーコープ フォーレスト店",
+    "latitude": 43.3377,
+    "longitude": 142.3919,
+    "radiusMeter": 40,
+    "type": "SUPERMARKET",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "tsuruha_furano_yayoi",
+    "name": "ツルハドラッグ 富良野弥生店",
+    "latitude": 43.3440,
+    "longitude": 142.3970,
+    "radiusMeter": 30,
+    "type": "DRUGSTORE",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "tsuruha_furano_hinode",
+    "name": "ツルハドラッグ 富良野日の出店",
+    "latitude": 43.3490,
+    "longitude": 142.3974,
+    "radiusMeter": 30,
+    "type": "DRUGSTORE",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "satudora_furano",
+    "name": "サツドラ 富良野店",
+    "latitude": 43.3420,
+    "longitude": 142.3918,
+    "radiusMeter": 30,
+    "type": "DRUGSTORE",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "dcm_furano",
+    "name": "DCM 富良野店",
+    "latitude": 43.3510,
+    "longitude": 142.3980,
+    "radiusMeter": 40,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sanbankan_furano",
+    "name": "三番舘ふらの店",
+    "latitude": 43.3450,
+    "longitude": 142.3875,
+    "radiusMeter": 40,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "ja_furano_marche_ogaru",
+    "name": "JAふらの フラノ・マルシェ オガール店",
+    "latitude": 43.3416,
+    "longitude": 142.3866,
+    "radiusMeter": 40,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "furano_milk"
+    }
+  },
+  {
+    "id": "ja_furano_fuel_shintomi",
+    "name": "JAふらの アロック富良野新富店",
+    "latitude": 43.3388,
+    "longitude": 142.3932,
+    "radiusMeter": 40,
+    "type": "GAS",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "ja_furano_fuel_yamabe",
+    "name": "JAふらの アロック山部店",
+    "latitude": 43.2447,
+    "longitude": 142.3824,
+    "radiusMeter": 40,
+    "type": "GAS",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "furano_jinja",
+    "name": "富良野神社",
+    "latitude": 43.343727,
+    "longitude": 142.382172,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "rewards": {
+      "exp": 200,
+      "money": 150
+    }
+  },
+  {
+    "id": "yamabe_jinja",
+    "name": "山部神社",
+    "latitude": 43.246258745198126,
+    "longitude": 142.38547959361475,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "rewards": {
+      "exp": 200,
+      "money": 150
+    }
+  },
+  {
+    "id": "heso_jinja",
+    "name": "へそ神社（北真神社）",
+    "latitude": 43.34465,
+    "longitude": 142.38307,
+    "radiusMeter": 35,
+    "type": "SHRINE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "daitokuji",
+    "name": "真宗大谷派 大徳寺",
+    "latitude": 43.24182206553383,
+    "longitude": 142.38365672702264,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "hongoji",
+    "name": "本要寺",
+    "latitude": 43.3472,
+    "longitude": 142.3825,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "furanoji",
+    "name": "富良野寺",
+    "latitude": 43.3455,
+    "longitude": 142.3815,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "koumyoji",
+    "name": "光明寺",
+    "latitude": 43.3460,
+    "longitude": 142.3830,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "tokoji",
+    "name": "東光寺",
+    "latitude": 43.3449,
+    "longitude": 142.3820,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "taihoji",
+    "name": "大宝寺",
+    "latitude": 43.3470,
+    "longitude": 142.3840,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "koujinji",
+    "name": "興仁寺",
+    "latitude": 43.3463,
+    "longitude": 142.3809,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "myohoji",
+    "name": "妙峰寺",
+    "latitude": 43.3478,
+    "longitude": 142.3818,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "honshinji",
+    "name": "本慎寺",
+    "latitude": 43.2155,
+    "longitude": 142.4420,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "seihouji",
+    "name": "西方寺",
+    "latitude": 43.3458,
+    "longitude": 142.3808,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "toodaiji",
+    "name": "東大寺",
+    "latitude": 43.3465,
+    "longitude": 142.3800,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "daisenji",
+    "name": "大仙寺",
+    "latitude": 43.3468,
+    "longitude": 142.3810,
+    "radiusMeter": 35,
+    "type": "TEMPLE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "asahimachi_park",
+    "name": "朝日町公園",
+    "latitude": 43.3477,
+    "longitude": 142.3912,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sakaemachi_park",
+    "name": "栄町公園",
+    "latitude": 43.34408,
+    "longitude": 142.39062,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "seiryu_park",
+    "name": "清流公園",
+    "latitude": 43.34003,
+    "longitude": 142.38705,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "heiwa_park",
+    "name": "平和公園",
+    "latitude": 43.3395,
+    "longitude": 142.3859,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "akebono_park",
+    "name": "曙公園",
+    "latitude": 43.34147,
+    "longitude": 142.39103,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "izumi_park",
+    "name": "泉公園",
+    "latitude": 43.33969,
+    "longitude": 142.3946,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "midori_park",
+    "name": "みどり公園",
+    "latitude": 43.33098,
+    "longitude": 142.39852,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "futaba_park",
+    "name": "双葉公園",
+    "latitude": 43.33164,
+    "longitude": 142.39471,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sumire_park",
+    "name": "すみれ公園",
+    "latitude": 43.3427,
+    "longitude": 142.39435,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashimachi_park",
+    "name": "東町公園",
+    "latitude": 43.3379,
+    "longitude": 142.39748,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "gakuden_park",
+    "name": "学田公園",
+    "latitude": 43.3495,
+    "longitude": 142.38156,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "nishikimachi_park",
+    "name": "錦町公園",
+    "latitude": 43.35146,
+    "longitude": 142.39295,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "shinko_park",
+    "name": "新光公園",
+    "latitude": 43.35018,
+    "longitude": 142.39784,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sumiyoshi_park",
+    "name": "住吉公園",
+    "latitude": 43.34885,
+    "longitude": 142.395,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "mizuho_park",
+    "name": "みずほ公園",
+    "latitude": 43.34727,
+    "longitude": 142.39974,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "higashiasamachi_park",
+    "name": "東麻町公園",
+    "latitude": 43.34439,
+    "longitude": 142.40367,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "minamiasamachi_park",
+    "name": "南麻町公園",
+    "latitude": 43.34253,
+    "longitude": 142.402,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "kitanominenishi_park",
+    "name": "北の峰西公園",
+    "latitude": 43.34461,
+    "longitude": 142.3646,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "ogise_park",
+    "name": "扇瀬公園",
+    "latitude": 43.33513,
+    "longitude": 142.40067,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "asahigaoka_sougou_park",
+    "name": "朝日ヶ丘総合公園",
+    "latitude": 43.34244,
+    "longitude": 142.3709,
+    "radiusMeter": 50,
+    "type": "PARK",
+    "rewards": {
+      "exp": 200,
+      "money": 150
+    }
+  },
+  {
+    "id": "torinuma_park",
+    "name": "鳥沼公園",
+    "latitude": 43.34079,
+    "longitude": 142.43615,
+    "radiusMeter": 50,
+    "type": "PARK",
+    "rewards": {
+      "exp": 200,
+      "money": 150
+    }
+  },
+  {
+    "id": "furano_ekimae_park",
+    "name": "ふらの駅前公園",
+    "latitude": 43.34748,
+    "longitude": 142.39085,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "katsuragi_green",
+    "name": "桂木緑地",
+    "latitude": 43.34885,
+    "longitude": 142.38432,
+    "radiusMeter": 30,
+    "type": "PARK",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "heso_center_park",
+    "name": "へそ中心標公園",
+    "latitude": 43.34465,
+    "longitude": 142.38307,
+    "radiusMeter": 35,
+    "type": "PARK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_chuo_park",
+    "name": "山部中央公園",
+    "latitude": 43.24472,
+    "longitude": 142.38262,
+    "radiusMeter": 35,
+    "type": "PARK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_taiyo_no_sato",
+    "name": "山部自然公園 太陽の里",
+    "latitude": 43.24622,
+    "longitude": 142.3409,
+    "radiusMeter": 60,
+    "type": "PARK",
+    "rewards": {
+      "exp": 250,
+      "money": 180
+    }
+  },
+  {
+    "id": "tairazawa_park",
+    "name": "平沢公園",
+    "latitude": 43.26602,
+    "longitude": 142.49434,
+    "radiusMeter": 35,
+    "type": "PARK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "nishitappu_park",
+    "name": "西達布公園",
+    "latitude": 43.22419,
+    "longitude": 142.4976,
+    "radiusMeter": 35,
+    "type": "PARK",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "jr_yamabe_station",
+    "name": "JR山部駅",
+    "latitude": 43.24469,
+    "longitude": 142.38492,
+    "radiusMeter": 40,
+    "type": "STATION",
+    "rewards": {
+      "exp": 200,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_branch_office",
+    "name": "富良野市山部支所",
+    "latitude": 43.2455346,
+    "longitude": 142.3860084,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_welfare_center",
+    "name": "山部福祉センター",
+    "latitude": 43.2455346,
+    "longitude": 142.3860084,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_lifelong_learning_center",
+    "name": "山部生涯学習センター",
+    "latitude": 43.2414153,
+    "longitude": 142.3810334,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "tokyo_university_yamabe_forest",
+    "name": "東京大学北海道演習林 山部事務所",
+    "latitude": 43.24330,
+    "longitude": 142.38723,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "seven_eleven_yamabe",
+    "name": "セブン-イレブン 富良野山部店",
+    "latitude": 43.2384273,
+    "longitude": 142.3802367,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "seicomart_yamabe",
+    "name": "セイコーマート 富良野山部店",
+    "latitude": 43.2427971,
+    "longitude": 142.3828220,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "rewards": {
+      "exp": 120,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "yamabe_drive_in",
+    "name": "山部ドライブイン",
+    "latitude": 43.23969,
+    "longitude": 142.38079,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "yamabe_chuzaisho",
+    "name": "富良野警察署 山部駐在所",
+    "latitude": 43.2448463,
+    "longitude": 142.3821168,
+    "radiusMeter": 30,
+    "type": "POLICE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_fire_station",
+    "name": "富良野消防署 山部出張所",
+    "latitude": 43.24559,
+    "longitude": 142.38595,
+    "radiusMeter": 30,
+    "type": "FIRE",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "yamabe_junior_high_school",
+    "name": "旧山部中学校",
+    "latitude": 43.24452,
+    "longitude": 142.38492,
+    "radiusMeter": 30,
+    "type": "SCHOOL",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "yamabe_clinic",
+    "name": "山部診療所",
+    "latitude": 43.24432,
+    "longitude": 142.38374,
+    "radiusMeter": 30,
+    "type": "HOSPITAL",
+    "rewards": {
+      "exp": 180,
+      "money": 120
+    }
+  },
+  {
+    "id": "kaoruan",
+    "name": "薫風庵",
+    "latitude": 43.24398,
+    "longitude": 142.38337,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "katsuchan_sushi",
+    "name": "勝ちゃん鮨",
+    "latitude": 43.24352,
+    "longitude": 142.38308,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "sushi"
+    }
+  },
+  {
+    "id": "ippuku",
+    "name": "割烹食堂 一福",
+    "latitude": 43.24334,
+    "longitude": 142.38270,
+    "radiusMeter": 30,
+    "type": "RESTAURANT",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "meal_ticket"
+    }
+  },
+  {
+    "id": "panier_yamabe",
+    "name": "パニエ",
+    "latitude": 43.24385,
+    "longitude": 142.38291,
+    "radiusMeter": 30,
+    "type": "CAFE",
+    "rewards": {
+      "exp": 160,
+      "money": 100,
+      "itemId": "coffee"
+    }
+  },
+  {
+    "id": "motoryokan_cafe",
+    "name": "MOTORYOKAN Guesthouse & Cafe",
+    "latitude": 43.24444,
+    "longitude": 142.38426,
+    "radiusMeter": 30,
+    "type": "CAFE",
+    "rewards": {
+      "exp": 180,
+      "money": 120,
+      "itemId": "coffee"
+    }
+  },
+  {
+    "id": "yamabe_shokokai",
+    "name": "山部商工会",
+    "latitude": 43.24547,
+    "longitude": 142.38569,
+    "radiusMeter": 30,
+    "type": "PUBLIC",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  },
+  {
+    "id": "sasaki_store",
+    "name": "佐々木商店",
+    "latitude": 43.24378,
+    "longitude": 142.38257,
+    "radiusMeter": 30,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "nagaokaya",
+    "name": "長岡屋",
+    "latitude": 43.24360,
+    "longitude": 142.38236,
+    "radiusMeter": 30,
+    "type": "SHOP",
+    "rewards": {
+      "exp": 120,
+      "money": 80
+    }
+  },
+  {
+    "id": "seio_jiko",
+    "name": "星央自興株式会社",
+    "latitude": 43.24188,
+    "longitude": 142.38112,
+    "radiusMeter": 30,
+    "type": "COMPANY",
+    "rewards": {
+      "exp": 150,
+      "money": 100
+    }
+  }
+]

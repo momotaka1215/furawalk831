@@ -1,0 +1,54 @@
+{
+  "avatars": [
+    {
+      "id": "hero_01",
+      "name": "勇者",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters001.png"
+    },
+    {
+      "id": "mage_02",
+      "name": "魔術師",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters002.png"
+    },
+    {
+      "id": "warrior_03",
+      "name": "戦士",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters003.png"
+    },
+    {
+      "id": "archer_04",
+      "name": "弓使い",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters004.png"
+    },
+    {
+      "id": "thief_05",
+      "name": "盗賊",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters005.png"
+    },
+    {
+      "id": "priest_06",
+      "name": "僧侶",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters006.png"
+    },
+    {
+      "id": "knight_07",
+      "name": "騎士",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters007.png"
+    },
+    {
+      "id": "monk_08",
+      "name": "武闘家",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters008.png"
+    },
+    {
+      "id": "dancer_09",
+      "name": "踊り子",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters009.png"
+    },
+    {
+      "id": "sage_10",
+      "name": "賢者",
+      "url": "https://fulavono.neocities.org/furawalk/avatars_image/avaters010.png"
+    }
+  ]
+}

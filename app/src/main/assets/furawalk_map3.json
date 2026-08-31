@@ -1,0 +1,261 @@
+[
+  {
+    "id": "nakafurano_farm_tomita",
+    "name": "ファーム富田",
+    "latitude": 44.05388,
+    "longitude": 142.4275,
+    "radiusMeter": 50,
+    "type": "SIGHTSEEING",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 200,
+      "itemId": "lavender"
+    }
+  },
+  {
+    "id": "nakafurano_choei_lavender",
+    "name": "中富良野町営ラベンダー園",
+    "latitude": 44.0531,
+    "longitude": 142.4225,
+    "radiusMeter": 40,
+    "type": "PARK",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "nakafurano_flower_park",
+    "name": "北星山森林公園",
+    "latitude": 44.0542,
+    "longitude": 142.4198,
+    "radiusMeter": 45,
+    "type": "PARK",
+    "priority": 3,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160
+    }
+  },
+  {
+    "id": "nakafurano_saika_no_sato",
+    "name": "彩香の里",
+    "latitude": 44.0628,
+    "longitude": 142.4183,
+    "radiusMeter": 50,
+    "type": "SIGHTSEEING",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "jr_nakafurano_station",
+    "name": "JR中富良野駅",
+    "latitude": 44.0519,
+    "longitude": 142.4214,
+    "radiusMeter": 35,
+    "type": "STATION",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 120
+    }
+  },
+  {
+    "id": "jr_lavender_farm_station",
+    "name": "JRラベンダー畑駅（臨時）",
+    "latitude": 44.0583,
+    "longitude": 142.4286,
+    "radiusMeter": 30,
+    "type": "STATION",
+    "priority": 4,
+    "availability": {
+      "night_safe": false,
+      "winter_accessible": false
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "jr_nishi_nakafurano_station",
+    "name": "JR西中駅",
+    "latitude": 44.0811,
+    "longitude": 142.4339,
+    "radiusMeter": 30,
+    "type": "STATION",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nakafurano_town_hall",
+    "name": "中富良野町役場",
+    "latitude": 44.0492,
+    "longitude": 142.4233,
+    "radiusMeter": 35,
+    "type": "GOVERNMENT",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nakafurano_post_office",
+    "name": "中富良野郵便局",
+    "latitude": 44.0505,
+    "longitude": 142.4219,
+    "radiusMeter": 30,
+    "type": "POST",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nakafurano_jinja",
+    "name": "中富良野神社",
+    "latitude": 44.0478,
+    "longitude": 142.4244,
+    "radiusMeter": 40,
+    "type": "SHRINE",
+    "priority": 5,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 150
+    }
+  },
+  {
+    "id": "seicomart_nakafurano",
+    "name": "セイコーマート 中富良野店",
+    "latitude": 44.0514,
+    "longitude": 142.4231,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "seven_eleven_nakafurano",
+    "name": "セブン-イレブン 中富良野店",
+    "latitude": 44.0489,
+    "longitude": 142.4261,
+    "radiusMeter": 30,
+    "type": "CONVENIENCE",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 80,
+      "itemId": "drink"
+    }
+  },
+  {
+    "id": "nakafurano_elementary_school",
+    "name": "中富良野小学校",
+    "latitude": 44.0528,
+    "longitude": 142.4186,
+    "radiusMeter": 35,
+    "type": "ELEMENTARY_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nakafurano_junior_high_school",
+    "name": "中富良野中学校",
+    "latitude": 44.0547,
+    "longitude": 142.4169,
+    "radiusMeter": 35,
+    "type": "JUNIOR_HIGH_SCHOOL",
+    "priority": 3,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 100
+    }
+  },
+  {
+    "id": "nakafurano_fukushi_center",
+    "name": "中富良野町 ふれあいセンター",
+    "latitude": 44.0465,
+    "longitude": 142.4211,
+    "radiusMeter": 35,
+    "type": "PUBLIC",
+    "priority": 4,
+    "availability": {
+      "night_safe": true,
+      "winter_accessible": true
+    },
+    "rewards": {
+      "exp": 10,
+      "money": 160,
+      "itemId": "onsen_ticket"
+    }
+  }
+]

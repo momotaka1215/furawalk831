@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "quests": [
+    {
+      "id": "daily_template",
+      "title": "【デイリー】%sを訪れる",
+      "description": "現在地から最も近い目的地です",
+      "bonus_heso": 100,
+      "bonus_exp": 100,
+      "icon_emoji": "📅",
+      "condition_type": "LOCATION"
+    },
+    {
+      "id": "quest_first_walk",
+      "title": "最初の歩み",
+      "description": "累計で100m以上歩く",
+      "bonus_heso": 300,
+      "bonus_exp": 200,
+      "icon_emoji": "👟",
+      "condition_type": "DISTANCE",
+      "condition_value": 100
+    },
+    {
+      "id": "quest_furano_tour",
+      "title": "富良野を巡る",
+      "description": "3箇所のチェックポイントを訪れる",
+      "bonus_heso": 500,
+      "bonus_exp": 400,
+      "icon_emoji": "📸",
+      "condition_type": "CHECKIN_COUNT",
+      "condition_value": 3
+    },
+    {
+      "id": "event_yamabe_ja",
+      "title": "山部農協へ行こう",
+      "description": "JA山部でチェックインをする",
+      "bonus_heso": 200,
+      "bonus_exp": 150,
+      "reward_item_id": "melon_seed",
+      "icon_emoji": "🚜",
+      "target_checkpoint_id": "ja_furano_yamabe",
+      "condition_type": "LOCATION"
+    }
+  ],
+  "complex_events": [
+    {
+      "id": "achilles_and_tortoise",
+      "name": "アキレスと亀",
+      "enabled": true,
+      "settings": {
+        "maxRadiusMeters": 2000,
+        "arrivalRadiusMeters": 30,
+        "maxEscapeCount": 3
+      },
+      "stages": [
+        {
+          "id": "small",
+          "name": "小",
+          "minDistanceMeters": 300,
+          "maxDistanceMeters": 600,
+          "timeLimitSeconds": 600,
+          "rewardHeso": 10
+        },
+        {
+          "id": "medium",
+          "name": "中",
+          "minDistanceMeters": 700,
+          "maxDistanceMeters": 1200,
+          "timeLimitSeconds": 1200,
+          "rewardHeso": 30
+        },
+        {
+          "id": "large",
+          "name": "大",
+          "minDistanceMeters": 1300,
+          "maxDistanceMeters": 2000,
+          "timeLimitSeconds": 1800,
+          "rewardHeso": 50
+        }
+      ],
+      "completionReward": {
+        "heso": 100
+      }
+    }
+  ]
+}
